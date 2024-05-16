@@ -1,0 +1,46 @@
+{
+    "Users": [
+      {
+        "email": "demo@demo.com",
+        "name": "Fake User",
+        "password": "fakepassword",
+        "id": 1
+      },
+      {
+        "email": "john@example.com",
+        "name": "John Doe",
+        "password": "johnspassword",
+        "id": 2
+      },
+      {
+        "email": "jane@example.com",
+        "name": "Jane Doe",
+        "password": "janespassword",
+        "id": 3
+      }
+    ],
+    "Restaurants": [
+      {
+        "id": 1,
+        "name": "Tasty Bites",
+        "contact_number": "123-456-7890",
+        "image": "https://images.unsplash.com/photo-1592861956120-e524fc739696?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "location": "123 Main St, Cityville"
+      },
+      {
+        "id": 2,
+        "name": "Spice Palace",
+        "contact_number": "987-654-3210",
+        "image": "https://images.unsplash.com/photo-1466978913421-dad2ebd01d17?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "location": "456 Oak St, Townburg"
+      },
+      {
+        "id": 3,
+        "name": "Seafood Shack",
+        "contact_number": "555-123-4567",
+        "image": "https://images.unsplash.com/photo-1576867757603-05b134ebc379?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "location": "789 Elm St, Villagetown"
+      }
+    ]
+  }
+  
